@@ -1,5 +1,5 @@
 ### Hello there 👋. I'm Jenner, a professional data analyst.
-Hi, I'm Jenner! I'm a professional data analyst with experience in over six projects. \
+Hi, I'm Jenner! I'm a bilingual professional data analyst with experience in over six projects. 
 My skills include:
 Business Analytics, Data Visualization and Storytelling, Python, SQL, Machine Learning. 
 I am passionate about working with large datasets and creating compelling visualizations to drive growth in communication, sales, and customer satisfaction.
@@ -15,5 +15,7 @@ I am passionate about working with large datasets and creating compelling visual
 - 💬 Feel free to ask me about the projects I have worked on in the past. I am very proud of them and their outcomes, and I would love to share what I have learned from these experiences.
 
 - 📫 Feel free to contact me through GitHub or LinkedIn https://www.linkedin.com/in/jenner-valdez-026861105/
+
+- 🗣️ Languages: I am fluent in both English and Spanish. Currently learning Mandarin.
 
 - ⚡ Fun fact: I love pistachio icecream :D
