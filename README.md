@@ -1,4 +1,6 @@
 ### Hello there 👋. I'm Jenner, a professional data analyst.
+[![Linkedin Badge](https://img.shields.io/badge/-JennerValdez-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JennerValdez/)]([https://www.linkedin.com/in/JennerValdez/](https://www.linkedin.com/in/jenner-valdez-026861105/)) [![Github Badge](https://img.shields.io/badge/-JennerValdez-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JennerValdez/)]([https://www.github.com/JennerValdez/](https://github.com/Jenner-Valdez))
+
 Hi, I'm Jenner! I'm a bilingual professional data analyst with experience in over six projects. 
 My skills include:
 Business Analytics, Data Visualization and Storytelling, Python, SQL, Machine Learning. 
