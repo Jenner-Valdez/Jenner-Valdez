@@ -20,8 +20,3 @@ I am passionate about working with large datasets and creating compelling visual
 - 🗣️ Languages: I am fluent in both English and Spanish. Currently learning Mandarin.
 
 - ⚡ Fun fact: I love pistachio icecream :D
-
-### Languages:
-| Python3 |
-|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img 
