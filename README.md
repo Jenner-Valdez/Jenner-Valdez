@@ -1,6 +1,6 @@
 ### Hello there 👋. I'm Jenner, a professional data analyst.
 
-Hi, I'm Jenner! I'm a bilingual professional data analyst with experience in over a 10 projects. 
+Hi, I'm Jenner! I'm a bilingual professional data analyst with experience in over 10 projects. 
 My skills include:
 Business Analytics, Data Visualization and Storytelling, Python, SQL, Machine Learning. 
 I am passionate about working with large datasets and creating compelling visualizations to drive growth in communication, sales, and customer satisfaction.
