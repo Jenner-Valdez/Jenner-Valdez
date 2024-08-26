@@ -2,10 +2,10 @@
 
 Hi, I'm Jenner! I'm a bilingual professional data analyst with experience in over 10 projects. 
 My skills include:
-Business Analytics, Data Visualization and Storytelling, Python, SQL, Machine Learning. 
+Business Analytics, Data Visualization and Storytelling, Python, SQL, and Machine Learning. 
 I am passionate about working with large datasets and creating compelling visualizations to drive growth in communication, sales, and customer satisfaction.
 
-- 🔭 I am currently working on a solo project to identify the top-selling products for Home Depot. This involves analyzing their best-selling items per season, understanding why they are the most sold items, and devising strategies to increase the sales of their second most sold items to maximize profits. I am also creating a Tableau dashboard to make the findings easier to read and understand. Previously, I have collaborated with different companies to identify their top and least sold items, aiming to boost sales for upcoming terms by analyzing customer trends.
+- 🔭 I am currently working on a solo project to identify the top-selling products for Home Depot. This involves analyzing their best-selling items per season, understanding why they are the most sold items, and devising strategies to increase the sales of their second-most-sold items to maximize profits. I am also creating a Tableau dashboard to make the findings easier to read and understand. Previously, I have collaborated with different companies to identify their top and least sold items, aiming to boost sales for upcoming terms by analyzing customer trends.
 
 - 🌱 I’m currently learning to implement automation in data management and cleaning to make data analysis more efficient and error-free. Additionally, I am expanding my knowledge of Python for machine learning.
 
@@ -19,4 +19,4 @@ I am passionate about working with large datasets and creating compelling visual
 
 - 🗣️ Languages: I am fluent in both English and Spanish. Currently learning Mandarin.
 
-- ⚡ Fun fact: I love pistachio icecream :D
+- ⚡ Fun fact: I love pistachio ice cream :D
